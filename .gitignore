@@ -1,0 +1,22 @@
+# Entornos virtuales de Python
+venv/
+Backend/venv/
+env/
+__pycache__/
+*.pyc
+
+# Dependencias de Node.js (Frontend)
+node_modules/
+cliente/node_modules/
+
+# Variables de entorno
+.env
+Backend/.env
+cliente/.env
+
+# Archivos de compilación de React/Vite
+dist/
+cliente/dist/
+
+# Archivos del sistema operativo
+.DS_Store
